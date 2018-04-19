@@ -1,10 +1,14 @@
 {
     "name": "react-spring-audio",
     "description": "Amazing audio component to betterize your app",
-    "version": "0.0.12",
+    "version": "0.0.14",
     "license": "ISC",
     "author": "Artur Gajewski <info@arturgajewski.com>",
     "website": "https://github.com/artur-gajewski/react-spring-audio",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/artur-gajewski/react-spring-audio.git"
+    },
     "scripts": {
         "autoformat": "prettier --trailing-comma es5 --write './src/**/*.{js,jsx,mp3}'",
         "build": "babel ./src/ --out-dir ./dist"
