@@ -2,6 +2,18 @@
 
 A component that plays and audible sound of spring.
 
+Installation:
+
+```
+yarn add react-spring-audio
+```
+
+or
+
+```
+npm install react-spring-audio
+```
+
 Usage:
 
 ```
