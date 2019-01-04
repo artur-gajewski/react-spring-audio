@@ -1,4 +1,4 @@
-# React Audio Spring component
+# React Spring Audio component
 
 A component that plays and audible sound of spring.
 
